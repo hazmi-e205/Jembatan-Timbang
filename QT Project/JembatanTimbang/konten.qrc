@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/konten">
+        <file>gambar/tombol/refresh.png</file>
+        <file>gambar/tombol/disconect.png</file>
+        <file>gambar/tombol/disconect.jpg</file>
+        <file>gambar/tombol/conect.png</file>
+        <file>gambar/tombol/conect.jpg</file>
+        <file>gambar/its-warna.png</file>
+        <file>gambar/its-putih.png</file>
+        <file>gambar/Kemenhub_putih.png</file>
+        <file>gambar/Kemenhub_warna.png</file>
+    </qresource>
+</RCC>
